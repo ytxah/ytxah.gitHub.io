@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sicherhub</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on sicherhub</description>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Aug 2024 15:17:21 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 14 Aug 2024 15:17:21 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About 关于这个博客 欢迎来到我的个人博客，一个我用来记录技术探索、生活点滴和阅读感悟的小小空间。在这里，你将找到我对各种技术话题的深入分析，日常生</description>
+    </item>
+    <item>
+      <title>hugo搭建</title>
+      <link>http://localhost:1313/posts/blog/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/blog/hugo/</guid>
+      <description>使用hugo+github pages+域名搭建博客 hugo环境搭建 GitHub配置 本地与GitHub的打通 域名配置</description>
+    </item>
+    <item>
+      <title>🤝友链</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>百度搜索引擎：https://www.baidu.com 月之暗面AI：https://kimi.moonshot.cn/</description>
+    </item>
+  </channel>
+</rss>
