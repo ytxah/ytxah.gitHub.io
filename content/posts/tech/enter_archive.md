@@ -1,6 +1,6 @@
 ---
 title: 企业信息系统mvp
-date: {date}
+date: 2024-08-15T14:17:00+08:00
 author: ytxah
 ---
 # MVP
