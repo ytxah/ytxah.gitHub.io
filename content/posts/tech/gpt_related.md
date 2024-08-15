@@ -1,5 +1,6 @@
 ---
 title: "gpt相关"
+tag: AI
 date: 2024-08-14T14:17:00+08:00
 author: ytxah
 hidemeta: false #隐藏文章的元信息，如日期与作者
