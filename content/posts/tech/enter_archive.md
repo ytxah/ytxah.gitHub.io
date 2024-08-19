@@ -8,4 +8,4 @@ author: ytxah
 - 搜索和推荐
 - 根据计划执行一些有用任务的临时工作
 
-![](./img/tech/mvp-archieve.jpeg)
+![](/img/tech/mvp-archieve.jpeg)
