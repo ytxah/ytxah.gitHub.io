@@ -1,5 +1,6 @@
 ---
 title: "青岛旅行攻略"
 date: 2024-08-22T15:04:00+08:00
-author: ytxah&fei
+author: ['ytxah','fei']]
+tag: ['travel','青岛']
 ---
