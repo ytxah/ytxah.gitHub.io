@@ -78,10 +78,10 @@ languages:
           #   name: 🧩分类
           #   url: categories
           #   weight: 30
-          - identifier: tags
-            name: 🔖标签
-            url: tags
-            weight: 40
+          #- identifier: tags
+            #name: 🔖标签
+            #url: tags
+            #weight: 40
           - identifier: about
             name: 🙋🏻‍♂️关于
             url: about
