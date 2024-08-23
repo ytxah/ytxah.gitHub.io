@@ -36,7 +36,7 @@ languages:
       profileMode:
         enabled: true
         title: "Don't die & Don't live alone."
-        subtitle: "🧨学而时习之，不亦说乎？有朋自远方来，不亦乐乎？<br/>👏🏼欢迎光临<br/>👇联系方式"
+        subtitle: "不要死，也不要孤独的活——黑悟空<br/>👏🏼欢迎光临<br/>👇联系方式"
         imageUrl: "img/Q.gif"
         imageTitle: The King of Elden
         imageWidth: 150
